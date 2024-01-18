@@ -7,7 +7,7 @@ This project is iniciated by Bird Ecology & Conservation Ontario (BECO). The goa
 
 - [Bird Life in Agricultural Grasslands](https://grasslandbirds.ca/index.html)
 
-- [Grasshopper Sparrow Fact Sheet](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.beco-birds.org/wp-content/uploads/2023/02/GrasshopperSparrow_FactSheet_BECO.pdf)
+- [Grasshopper Sparrow Fact Sheet](https://www.beco-birds.org/wp-content/uploads/2023/02/GrasshopperSparrow_FactSheet_BECO.pdf)
 
 - Note: bird illustrations created by Emily S. Damstra for BECO can be used for this project as well.
 
