@@ -9,6 +9,8 @@ This project is iniciated by Bird Ecology & Conservation Ontario (BECO). The goa
 
 - [Grasshopper Sparrow Fact Sheet](https://www.beco-birds.org/wp-content/uploads/2023/02/GrasshopperSparrow_FactSheet_BECO.pdf)
 
+- [Nesting period of birds in the area](https://www.canada.ca/en/environment-climate-change/services/avoiding-harm-migratory-birds/general-nesting-periods/nesting-periods.html#_zoneC_calendar)
+
 - Note: bird illustrations created by Emily S. Damstra for BECO can be used for this project as well.
 
 
