@@ -14,7 +14,11 @@ This project is iniciated by Bird Ecology & Conservation Ontario (BECO). The goa
 - Note: bird illustrations created by Emily S. Damstra for BECO can be used for this project as well.
 
 
+## Product 
 
+### version 1: 2024.03.05
+[PDF file](./docs/Grassland_Bird_In_Ontario_v1.pdf)
+![](./docs/Grassland_Bird_In_Ontario_v1.jpg)
 
 ## Time line
 
