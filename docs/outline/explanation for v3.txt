@@ -1,0 +1,24 @@
+General suggestion: do not want to fill out the white space on the top or the bottom anymore... it would just be a document full with text and information. From an audience 
+point of view, I already see this documents carrying too much text than it should be and even me don't have the patience to read through the texts. 
+
+
+((Extra changes I made
+- make all the text one size down (from 13 to 12) 
+- reduce the text spacing
+- added line space for paragraphs (as the text is smaller and the spacing is smaller, for visual comfortabality) 
+- reduced the space between the nesting calandars as there is not enough for the text we had so far.
+- right aligned the text for the second page
+
+
+((I did the change but don't think they look good
+- Include the references ((not all the posters are included
+- Make the bird proportional ((not visually attractive and also I don't think it would be scientifically influencial to the understanding of the species. 
+And this pushed the space to the low vegetation to high vegetation thus I have to remove them.
+
+
+
+((I didn't do the change
+- move the background further down 
+- Add the text for the species name, or add arrow/text to describe the density of the grass land
+- Removed "in 1 or more paddocks" given the space
+- Zoe wrote "Show peak nesting from late May to end of June" - I guess it was a typo, the peak nesting season should last until late July?
