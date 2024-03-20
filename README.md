@@ -16,6 +16,10 @@ This project is iniciated by Bird Ecology & Conservation Ontario (BECO). The goa
 
 ## Product 
 
+### version 3: 2024.03.19
+[PDF file](./docs/Grassland_Bird_In_Ontario_v3.pdf)
+![](./docs/Grassland_Bird_In_Ontario_v3.jpg)
+
 ### version 2: 2024.03.11
 [PDF file](./docs/Grassland_Bird_In_Ontario_v2.pdf)
 ![](./docs/Grassland_Bird_In_Ontario_v2.jpg)
